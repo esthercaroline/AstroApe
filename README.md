@@ -21,18 +21,18 @@ O jogo foi desenvolvido na engine **Unity** e exportado para **WebGL**, oferecen
 ### Gráficos
 
 - **Personagem (macaco astronauta):**  
-  - Sprites criados por [BiteTheBytes](https://bitethebytes.itch.io/astro-monkey) *(ou insira o autor correto caso use outro)*.
+  - Sprites criados pelo ChatGPT
 - **Itens colecionáveis (bananas):**  
-  - Obtidos do pack gratuito [Kenney’s Space Kit](https://kenney.nl/assets) *(ou correspondente)*.
+  -  Sprites criados pelo ChatGPT
 - **Plano de fundo espacial:**  
-  - Imagem de domínio público ou adaptada via pixel art personalizada.
+  -  Background criados pelo ChatGPT
 - **Botões e interface (UI):**  
   - Criados com auxílio do ChatGPT e ajustados no Unity UI.
 
 ### 🎵 Áudio
 
 - **Música de fundo:**  
-  - Trilha obtida gratuitamente em [Pixabay](https://pixabay.com/) ou [Freesound](https://freesound.org/).
+  - Trilha obtida gratuitamente em [Pixabay](https://pixabay.com/) 
 - **Efeitos sonoros:**  
   - Efeitos leves de clique, coleta e dano também extraídos de [Pixabay](https://pixabay.com/).
 
